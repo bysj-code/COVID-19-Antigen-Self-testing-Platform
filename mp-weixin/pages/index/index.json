@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#838A8E",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "新冠抗原自测平台小程序首页",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}
